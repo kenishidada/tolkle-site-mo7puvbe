@@ -17,16 +17,16 @@
   --color-muted: oklch(0.96 0 0);
   --color-muted-foreground: oklch(0.45 0 0);
   --color-border: oklch(0.91 0 0);
-  --color-ring: oklch(0.55 0.15 250);
+  --color-ring: oklch(0.72 0.17 145);
 
-  /* アクセントカラー (デフォルト: ブルー系) */
-  --color-primary: oklch(0.55 0.15 250);
+  /* アクセントカラー (LINE Green系) */
+  --color-primary: oklch(0.72 0.17 145);
   --color-primary-foreground: oklch(0.99 0 0);
-  --color-secondary: oklch(0.95 0.01 250);
-  --color-secondary-foreground: oklch(0.25 0.05 250);
+  --color-secondary: oklch(0.95 0.05 145);
+  --color-secondary-foreground: oklch(0.3 0.1 145);
 
-  --color-accent: oklch(0.95 0.01 250);
-  --color-accent-foreground: oklch(0.25 0.05 250);
+  --color-accent: oklch(0.95 0.05 145);
+  --color-accent-foreground: oklch(0.3 0.1 145);
 
   --color-destructive: oklch(0.55 0.2 25);
   --color-destructive-foreground: oklch(0.99 0 0);
