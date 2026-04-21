@@ -303,7 +303,7 @@ export default function LandingPage() {
                 <CardContent className="p-8">
                   <div className="mb-8 text-center">
                     <p className="text-lg font-semibold mb-2">お電話でのご相談</p>
-                    <p className="text-3xl font-bold text-[#06C755]">070-5549-1714</p>
+                    <p className="text-3xl font-bold text-[#06C755]">090-1111-2222</p>
                     <p className="text-sm text-[#737373] mt-2">平日 10:00 - 18:00</p>
                   </div>
 
@@ -357,7 +357,7 @@ export default function LandingPage() {
             </div>
             <div className="md:text-right">
               <p className="text-gray-400 text-sm mb-2">お問い合わせ</p>
-              <p className="text-xl font-semibold">070-5549-1714</p>
+              <p className="text-xl font-semibold">090-1111-2222</p>
             </div>
           </div>
           <Separator className="my-8 bg-gray-800" />
